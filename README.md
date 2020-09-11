@@ -28,16 +28,16 @@
 6) Once bazel target executed succussfully then #"bazel-out" folder will be created inside tensorflow2.2 folder.
    inside bazel-out folder multiple folder also created so go to below path. 
          
-         <path>\tensorflow2.2\bazel-out\x64_windows-fastbuild\bin\main
+         <path>\tensorflow2.2\bazel-out\x64_windows-fastbuild\bin\
 
 7) Copy sample.py file and past into below path.
 
-         <path>\tensorflow2.2\bazel-out\x64_windows-fastbuild\bin\main
+         <path>\tensorflow2.2\bazel-out\x64_windows-fastbuild\bin\
 
 8) Go to below path and execute "python_cpp.exe"
 
 
-       <path>\tensorflow2.2\bazel-out\x64_windows-fastbuild\bin\main
+       <path>\tensorflow2.2\bazel-out\x64_windows-fastbuild\bin\
 
 
 
