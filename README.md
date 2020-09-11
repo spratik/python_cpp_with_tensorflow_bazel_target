@@ -6,7 +6,7 @@
 
         pip install tensorflow-gpu==2.2
 
-2) Open file(Python_CPP_Bazel_target\main\python_cpp.cc) and modify line number 11 (tensorflow env path with your tensorflow env path) 
+2) Open file(python_cpp_with_tensorflow_bazel_target\python_cpp.cc) and modify line number 11 (tensorflow env path with your tensorflow env path) 
 
          std::string tensoflow_env = "C:\\Users\\PRATIK\\anaconda3\\envs\\tensorflow_GPU\\";
 
